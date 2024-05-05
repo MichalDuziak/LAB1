@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "LAB1": {
+      "commandName": "Project"
+    },
+    "Profil 1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Michal\\source\\repos\\LAB1\\LAB1\\Zadanie 3"
+    }
+  }
+}
